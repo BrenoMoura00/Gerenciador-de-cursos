@@ -11,5 +11,5 @@ public class testandoListas {
         System.out.println("============================="); // esse aqui ele concatena quebrando as linhas
         System.out.printf("%s\n%s\n%s\n%s\n", aula1, aula2, aula3, aula4);
 
-    }
+    } // ele mostra a alteração do primeiro commit com o segundo commit
 }
