@@ -6,6 +6,10 @@ public class testandoListas {
         String aula2 = "Modelando a Classe Aula";
         String aula3 = "Trabalhando com cursos e Sets";
         String aula4 = "Aumentando a complexidade";
-        
+        System.out.println(aula1);
+        System.out.println(aula2 + aula3); // esse é o escreva tipo esse aqui ele vai juntar as duas strings
+        System.out.println("============================="); // esse aqui ele concatena quebrando as linhas
+        System.out.printf("%s\n%s\n%s\n%s\n", aula1, aula2, aula3, aula4);
+
     }
 }
